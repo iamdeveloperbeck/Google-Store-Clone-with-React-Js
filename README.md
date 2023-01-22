@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Preview in Browser: https://google-store-clone-with-react-js.vercel.app/
 
-![screencapture-google-store-clone-with-react-js-vercel-app-2023-01-22-20_50_21](https://user-images.githubusercontent.com/85181067/213925265-7edd3185-b8cc-4155-b917-cc5bfb3e9438.png)
+![screencapture-google-store-clone-with-react-js-vercel-app-2023-01-22-20_50_21](https://user-images.githubusercontent.com/85181067/213925291-20e4f0fa-079c-4934-b84d-bbfbb641bcfc.png)
